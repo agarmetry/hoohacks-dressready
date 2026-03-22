@@ -67,12 +67,3 @@ src/
 - `.env` is intentionally ignored
 - Use `.env.example` as the template for local setup
 
-## Demo Focus
-
-If you are showcasing this project in a portfolio or class demo, the strongest flow is:
-
-1. Launch the app
-2. Connect Google Calendar
-3. Walk through onboarding preferences
-4. Show the dashboard weather and event cards
-5. Explain how the app turns calendar + weather context into outfit guidance
